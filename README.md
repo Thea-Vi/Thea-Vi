@@ -20,7 +20,7 @@
 [<img align="left" alt="TheaVillanueva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/Theav8
-[linkedin]: https://github.com/Thea-Vi
+[linkedin]: https://www.linkedin.com/in/thea-villanueva/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
