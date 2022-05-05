@@ -1,7 +1,7 @@
 <h1>Hi, I'm Thea! <br/><a href="https://github.com/Thea-Vi">Aspiring Developer</a> <a href="https://www.linkedin.com/in/thea-villanueva/"></a> 
 
   <h2> Software Development Projects:</br>
-  <h2>***Please see Project Demos on Read Me Section***</h2>
+  <h2>***Please see Project Demo links below***</h2>
 
 - <b>Java + Spring</b>
   - [Book Club](https://github.com/Thea-Vi/BookClub)
