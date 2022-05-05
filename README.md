@@ -3,7 +3,7 @@
 <h2> Software Development Projects:</h2>
 
 - <b>Java + Spring</b>
-  - [Book Club](https://github.com/Thea-Vi/BookShelf-Java)
+  - [Book Club](https://github.com/Thea-Vi/BookClub)
 - <b>Mongo DB | Express | React | Node JS</b>
   - [Pinoy Platter](https://github.com/Thea-Vi/PinoyPlatter-MERN)
 - <b>Java + Spring</b>
