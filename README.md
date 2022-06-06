@@ -9,6 +9,9 @@
 - <b>Javascript | Mongo DB | Express | React | Node JS</b>
   - [Pinoy Platter](https://github.com/Thea-Vi/PinoyPlatter-MERN)
   - Demo(https://github.com/Thea-Vi/PinoyPlatter-MERN#readme)
+- <b>Python + Flask</b>
+  - [Name Suggestion](https://github.com/Thea-Vi/Name-Suggestion)
+  - Demo(https://github.com/Thea-Vi/Name-Suggestion)
 - <b>Java + Spring</b>
   - [Employee List](https://github.com/Thea-Vi/Employees)
   - Demo(https://github.com/Thea-Vi/Employees)
